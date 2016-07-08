@@ -1,0 +1,13 @@
+{
+  "appname": "solr",
+  "ocscope": "",
+  "clientid": "06D71659-4635-460D-9003-C4B6DA250BBE",
+  "buyerid": "dist-1",
+  "environment": "prod",
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
